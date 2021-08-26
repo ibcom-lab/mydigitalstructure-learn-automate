@@ -1,0 +1,20 @@
+{
+	"mydigitalstructure":
+	{
+		"hostname": "api.mydigitalstructure.cloud", 
+		"logon": "example-learn@mydigitalstructure.cloud", 
+		"password": "xxxx", 
+		"email": "support@mydigitalstructure.cloud",
+		"testing": 
+		{
+			"status": "true",
+			"showData": "true",
+			"break": "-"
+		},
+		"convert": "true"
+	},
+	"automate":
+	{
+		"namespace": "0000-1.0.0"
+	}
+}	
